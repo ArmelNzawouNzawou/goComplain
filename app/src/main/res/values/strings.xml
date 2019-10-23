@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">goComplain</string>
+
+    //welcome string and App name String messages
+    <string name="app_name"> goComplain</string>
+    <string name="welcome_message">  Welcome To goComplain</string>
+
+    //Buttons
+    <string name="homeButton"> SIGN IN </string>
+    <string name="secondScreenButton"> OK </string>
+
+    //logo
+    <string name="homeScreenLogo"> LOGO </string>
+    <string name="secondScreenLogo"> LOGO </string>
+
+    //Inputs
+    <string name="secondScreenUsername"> Username </string>
+    <string name="secondScreenPassword"> Password </string>
+
+
 </resources>
