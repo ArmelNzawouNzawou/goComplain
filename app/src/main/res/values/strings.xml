@@ -8,6 +8,15 @@
     <string name="homeButton"> SIGN IN </string>
     <string name="secondScreenButton"> OK </string>
 
+    <string name="thirdScreenButton1"> POST A COMPLAINT</string>
+    <string name="thirdScreenButton2"> CHECK FEEDBACK </string>
+    <string name="thirdScreenButton3"> VIEW POSTS </string>
+
+
+
+    thirdScreenButton1
+
+
     //logo
     <string name="homeScreenLogo"> LOGO </string>
     <string name="secondScreenLogo"> LOGO </string>
