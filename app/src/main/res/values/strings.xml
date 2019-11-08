@@ -3,6 +3,7 @@
     //welcome string and App name String messages
     <string name="app_name"> goComplain</string>
     <string name="welcome_message">  Welcome To goComplain</string>
+    <string name="fifthScreenText">THERE ARE NO FEEDBACK YET</string>
 
     //Buttons
     <string name="homeButton"> SIGN IN </string>
@@ -12,9 +13,13 @@
     <string name="thirdScreenButton2"> CHECK FEEDBACK </string>
     <string name="thirdScreenButton3"> VIEW POSTS </string>
 
+    <string name="fourthScreenButton1"> POST </string>
+    <string name="fourthScreenButton2"> UPLOAD A PICTURE</string>
 
 
-    thirdScreenButton1
+
+
+
 
 
     //logo

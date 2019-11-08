@@ -11,20 +11,36 @@
         android:id="@+id/logo"
         android:layout_width="125dp"
         android:layout_height="80dp"
+        android:layout_marginStart="134dp"
+        android:layout_marginLeft="134dp"
+        android:layout_marginTop="111dp"
+        android:layout_marginEnd="152dp"
+        android:layout_marginRight="152dp"
+        android:layout_marginBottom="540dp"
         android:contentDescription="@string/homeScreenLogo"
-        tools:layout_editor_absoluteX="134dp"
-        tools:layout_editor_absoluteY="111dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         tools:src="@tools:sample/avatars[12]" />
 
     <EditText
         android:id="@+id/editText"
         android:layout_width="290dp"
         android:layout_height="295dp"
+        android:layout_marginStart="84dp"
+        android:layout_marginLeft="84dp"
+        android:layout_marginTop="254dp"
+        android:layout_marginEnd="37dp"
+        android:layout_marginRight="37dp"
+        android:layout_marginBottom="182dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="THER AREW NO FEEDBACK YET"
-        tools:layout_editor_absoluteX="84dp"
-        tools:layout_editor_absoluteY="254dp" />
+        android:text="@string/fifthScreenText"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
